@@ -1,9 +1,9 @@
 
-#🔹Smart LED Distance Indicator using Ultrasonic Sensor and Arduino
-##📌 Introduction
+# Smart LED Distance Indicator using Ultrasonic Sensor and Arduino
+## Introduction
 This project is a real-time distance indicator using an HC-SR04 ultrasonic sensor and LEDs to visually represent object proximity. It is designed to provide intuitive feedback for applications like smart parking, obstacle detection, and assistive devices for visually impaired individuals.
 
-##🎯 Objectives
+## Objectives
 ✔️ Develop a low-cost and efficient distance measurement system.
 ✔️ Provide real-time feedback using LEDs.
 ✔️ Improve safety and automation in various applications.
